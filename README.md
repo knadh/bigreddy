@@ -1,6 +1,6 @@
 # BigReddy
 
-BigReddy is a small utility that generates pseudo-philosophical and pseudo-poetic ramblings. When you're feeling down or you need some motivation in life, you go to BigReddy.
+BigReddy is a small utility that generates super deep pseudo-philosophical and pseudo-poetic ramblings. When you're feeling down or you need some motivation in life, you go to BigReddy.
 
 Under the hood, the utility uses Markov Chains to generate text.
 
