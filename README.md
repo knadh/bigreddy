@@ -10,10 +10,11 @@ pip install bigreddy
 ```
 
 ## Usage
-Once installed, on your commandline, run: ```bigreddy```
+Once installed, on your commandline, run: ```bigreddy```. Every time you run the utility, it'll generate fresh a new quote.
 
 Example:
 ```shell
 $ bigreddy 
+
 Names so beautiful, so is the average man, with laser-like focus.
 ```
